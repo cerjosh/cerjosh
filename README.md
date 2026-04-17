@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Cloudstaff**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **PowerBI, Google Analytics 4**
 
-- 👯 I’m looking to collaborate on **Data Analysis**
+- 👯 I’m looking to collaborate on **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [MICA](MICA)
 
