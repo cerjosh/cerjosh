@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joshua Cervantes</h1>
-<h3 align="center">A Professional Data Specialist</h3> 
+<h3 align="center">A Professional Data Services Coordinator</h3> 
 
 - 🔭 I’m currently working on **Cloudstaff**
 
